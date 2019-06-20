@@ -23,5 +23,5 @@ We integrate neuroimaging, neuropsychology, lifestyles and behaviors (e.g. educa
 
 The goals of the lab are addressed using advanced neuroimaging, neuropsychology, statistical modeling, mathematical model, advanced computing and coding. 
 [Google](http://google.com/)
-![Jason in Rome](JasonRome.jpeg)
+![Jason in Rome](JasonRome.jpeg = 100x)
 Hello
