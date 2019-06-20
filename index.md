@@ -5,7 +5,7 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+layout: default
 ---
 The goals of the Neural Cognitive Mapping laboratory are to understand how and why cognition declines with advanced age in some, but not all, people. 
 
