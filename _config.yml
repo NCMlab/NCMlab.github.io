@@ -41,7 +41,6 @@ minima:
 header_pages:
  - about.md
  - projects.md
-    - projects2.md
 
 # Build settings
 theme: minima
