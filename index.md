@@ -7,7 +7,7 @@
 #
 layout: default
 ---
-<img src="Figures/LabAims.png" alt="Lab Aims" width="600"/>
+<img src="Figures/LabAims.png" alt="Lab Aims" width="800"/>
 
 The goals of the Neural Cognitive Mapping laboratory are to understand how and why cognition declines with advanced age in some, but not all, people. 
 
