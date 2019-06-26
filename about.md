@@ -5,6 +5,6 @@ permalink: /about/
 ---
 # NCM Lab
 # Jason Steffener
-# Teaching and Training
-# [Research Team](ResearchTeam.md)
+# [Teaching and Training](/Pages/ResearchTeam.md)
+# [Research Team](/Pages/ResearchTeam.md)
 # Collaborators
