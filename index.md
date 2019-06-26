@@ -7,6 +7,8 @@
 #
 layout: default
 ---
+<img src="Figures/LabAims.png" alt="Lab Aims" width="600"/>
+
 The goals of the Neural Cognitive Mapping laboratory are to understand how and why cognition declines with advanced age in some, but not all, people. 
 
 Some people live long, cognitively healthy lives even when their brain is experiencing age or disease related neural decline. Such people are described as having cognitive reserve or the ability to maintain healthy cognitive functioning despite the neural declines.. 
@@ -23,4 +25,4 @@ We integrate neuroimaging, neuropsychology, lifestyles and behaviors (e.g. educa
 
 The goals of the lab are addressed using advanced neuroimaging, neuropsychology, statistical modeling, mathematical model, advanced computing and coding. 
 
-<img src="JasonRome.jpeg" alt="Jason in Rome" width="200"/>
+
