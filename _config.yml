@@ -1,8 +1,16 @@
-title: Neural Cognitive Mapping Laboratory
+# Setting background images:
+# https://www.youtube.com/watch?v=OQhNqdB-ino
+# Make background image as a map
+# https://metromapmaker.com/
+# https://metromapmaker.com/?map=du-4VMex
+
+
+title: Neural Cognitive Mapping
 author: Jason Steffener
-email: ncmlab@uottawa.ca
+email: jsteffen@uottawa.ca
 description: > # this means to ignore newlines until "show_exerpts:"
-  Webpage for the Neural Cognitive Mapping Laboratory at the University of Ottawa
+  Using neuroimaging, cognitive neuroscience, mathematics, 
+  statistical modeling and distrubuted computations to understand the aging brain.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -13,8 +21,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    # twitter: jekyllrb
-    github:  NCMlab
+    twitter: jekyllrb
+    github:  jekyll
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
@@ -38,10 +46,25 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-# - projects.md
 
+collections:
+  jason:
+    output: true
+  grad:
+    output: true
+  undergrad:
+    output: true
+  projects:
+    output: true
+  pastprojects:
+    output: true
+  software:
+    output: true
+
+assets:
+  css
+  images
+  js
 # Build settings
 theme: minima
 

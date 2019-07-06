@@ -1,0 +1,17 @@
+---
+layout: page
+title: Software
+permalink: /software/
+---
+
+<ul>
+  {% for author in site.software %}
+    <li>
+      <h4><a href="{{ author.url }}">{{ author.name }}</a></h4>
+      <p>
+  {{ author.shortDescr }}
+
+    </li>
+  {% endfor %}
+</ul>
+

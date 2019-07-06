@@ -5,9 +5,9 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: default
+layout: home
 ---
-<img src="Figures/LabAims.png" alt="Lab Aims" width="800"/>
+<img src="images/LabAims.png" alt="Lab Aims" width="800"/>
 
 The goals of the Neural Cognitive Mapping laboratory are to understand how and why cognition declines with advanced age in some, but not all, people. 
 
@@ -24,5 +24,6 @@ This lab investigates cognitive decline and cognitive reserve using advanced med
 We integrate neuroimaging, neuropsychology, lifestyles and behaviors (e.g. education and physical activity) into comprehensive models fully linking brain structure, function, cognition and individual differences to test current theories about cognitive aging.
 
 The goals of the lab are addressed using advanced neuroimaging, neuropsychology, statistical modeling, mathematical model, advanced computing and coding. 
+
 
 

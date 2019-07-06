@@ -1,0 +1,43 @@
+---
+layout: page
+title: Members
+permalink: /members/
+---
+<h2>Lab Director</h2>
+<ul>
+  {% for author in site.jason %}
+    <li>
+      <h4><a href="{{ author.url }}">{{ author.name }}</a></h4>
+      <b>{{ author.position }}</b>
+      <p>
+  {{ author.shortDescr }}
+
+    </li>
+  {% endfor %}
+</ul>
+
+<h2>Graduate Students</h2>
+<ul>
+  {% for author in site.grad %}
+    <li>
+      <h4><a href="{{ author.url }}">{{ author.name }}</a></h4>
+      <b>{{ author.position }}</b>
+      <p>
+	{{ author.shortDescr }}
+
+    </li>
+  {% endfor %}
+</ul>
+
+
+<h2>Undergraduate Students</h2>
+<ul>
+  {% for author in site.undergrad %}
+    <li>
+      <h4><a href="{{ author.url }}">{{ author.name }}</a></h4>
+      <b>{{ author.position }}</b>
+  {{ author.shortDescr }}
+
+    </li>
+  {% endfor %}
+</ul>
