@@ -21,9 +21,9 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    rss: rss
+    # twitter: 
+    github: NCMlab
+    # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
@@ -53,6 +53,8 @@ collections:
   grad:
     output: true
   undergrad:
+    output: true
+  alumni:
     output: true
   projects:
     output: true
