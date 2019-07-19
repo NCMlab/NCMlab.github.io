@@ -5,26 +5,16 @@ permalink: /projects/
 ---
 <h2>Ongoing Projects</h2>
 <ul>
-  {% for author in site.projects %}
+  {% for project in site.projects %}
     <li>
-      <h4><a href="{{ author.url }}">{{ author.name }}</a></h4>
-      <b>{{ author.position }}</b>
+      <h4><a href="{{ project.url }}">{{ project.name }}</a></h4>
       <p>
-  {{ author.shortDescr }}
+  {{ project.shortDescr }}
+</p>
+  Are we recruiting? {{ project.recruiting }}
 
     </li>
   {% endfor %}
 </ul>
 
-<h2>Past Projects</h2>
-<ul>
-  {% for author in site.pastprojects %}
-    <li>
-      <h4><a href="{{ author.url }}">{{ author.name }}</a></h4>
-      <b>{{ author.position }}</b>
-      <p>
-  {{ author.shortDescr }}
 
-    </li>
-  {% endfor %}
-</ul>

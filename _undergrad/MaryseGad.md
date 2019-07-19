@@ -2,7 +2,7 @@
 name: Maryse Gad
 position: Undergraduate Student
 layout: authors
-shortDescr: Maryse is conducting her honor's thesis project in the lab and will focus on understanding the age related effects on working memory.
+shortDescr: </br>Maryse is conducting her honor's thesis project in the lab and will focus on understanding the age related effects on working memory.
 ---
 ## Background
 
