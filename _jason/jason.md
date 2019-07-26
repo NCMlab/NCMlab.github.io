@@ -10,7 +10,7 @@ shortDescr: A neuroscientist focused on understanding how some older adults have
 
 ## Research Interests
 * Healthy cognitive aging
-* Cognitve reserve
+* Cognitive reserve
 * Brain-behavior relationships
 * Neuroimaging
 * Moderated-mediation statistical analyses
