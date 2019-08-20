@@ -17,4 +17,18 @@ permalink: /projects/
   {% endfor %}
 </ul>
 
+<h2>Student Projects</h2>
+The lab is in need of lots of help. This includes developing interesting cognitive tasks and developing tools for analyzing brain imaging data. Here is a list of some of our current needs, but if you have your own idea of something we could use/need we would love to hear about it!
+<ul>
+  {% for project in site.studentprojects %}
+    <li>
+      <h4><a href="{{ project.url }}">{{ project.name }}</a></h4>
+      <p>
+  {{ project.shortDescr }}
+</p>
+    </li>
+  {% endfor %}
+</ul>
+
+
 
