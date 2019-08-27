@@ -2,6 +2,7 @@
 name: Yara Yakoub
 position: Undergraduate Student
 layout: authors
+imagename: ../images/BlankFemale.jpg
 shortDescr: </br>Yara is conducting her honor's thesis project in the lab and will focus on understanding the neural functioning in adults with self-reported cognitive decline.
 ---
 ## Background

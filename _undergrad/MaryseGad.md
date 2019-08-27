@@ -2,6 +2,7 @@
 name: Maryse Gad
 position: Undergraduate Student
 layout: authors
+imagename: ../images/MaryseGad.jpg
 shortDescr: </br>Maryse is conducting her honor's thesis project in the lab and will focus on understanding the age related effects on <b>verbal working memory</b>.
 ---
 ## Background

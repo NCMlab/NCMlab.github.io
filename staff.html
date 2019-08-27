@@ -7,7 +7,13 @@ permalink: /members/
 <ul>
   {% for author in site.jason %}
     <li>
-      <h4><a href="{{ author.url }}">{{ author.name }}</a></h4>
+      <h4>
+		<a href="{{ author.url }}">
+		<img src={{author.imagename}} alt={{author.name}} style="width:100px;" />			
+		{{ author.name }}
+		</a>
+		
+	</h4>
       <b>{{ author.position }}</b>
       <p>
   {{ author.shortDescr }}
@@ -20,7 +26,11 @@ permalink: /members/
 <ul>
   {% for author in site.grad %}
     <li>
-      <h4><a href="{{ author.url }}">{{ author.name }}</a></h4>
+      <h4>
+		<a href="{{ author.url }}">
+		<img src={{author.imagename}} alt={{author.name}} style="width:100px;" />			
+		{{ author.name }}
+		</a></h4>
       <b>{{ author.position }}</b>
       <p>
 	{{ author.shortDescr }}
@@ -34,7 +44,12 @@ permalink: /members/
 <ul>
   {% for author in site.undergrad %}
     <li>
-      <h4><a href="{{ author.url }}">{{ author.name }}</a></h4>
+      <h4>
+		<a href="{{ author.url }}">
+		<img src={{author.imagename}} alt={{author.name}} style="width:100px;" />			
+		{{ author.name }}
+		</a></h4>
+
       <b>{{ author.position }}</b>
   {{ author.shortDescr }}
 
