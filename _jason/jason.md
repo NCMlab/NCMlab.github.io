@@ -2,7 +2,7 @@
 name: Jason Steffener
 position: Assistant Professor
 layout: authors
-imagename: ../images/BlankMale.jpg 
+imagename: ../images/JasonBio.jpg 
 shortDescr: A neuroscientist focused on understanding how some older adults have maintained cognitive performance into late life and why some others are not as fortunate. He combines imaging of brain function and structure, cognitive tasks adapted for each individual and measures of individual differences in how everyone lives and has lived their lives. His approaches use distributed computational power applied to statistical and mathematical models of how advancing age, the brain's structure, the brain's blood flow and how the brain functions to understand cognitive performance. 
 ---
 
