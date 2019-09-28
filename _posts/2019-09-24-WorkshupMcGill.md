@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neurocognitive Aging workshop at McGill
+title: Life Trajectories and Interventions that Support Successful Neurocognitive Aging
 categories: misc
 ---
 The entire [NCMLab team](https://ncmlab.github.io/members/) is attending the [Life Trajectories and Interventions that Support Successful Neurocognitive Aging](https://www.eventbrite.ca/e/montreal-aging-dementia-symposium-sept-27-28-2019-mcgill-university-registration-55997643459?utm_term=eventurl_text) workshop in Montreal, QC Canada September 27 and 28, 2019.
