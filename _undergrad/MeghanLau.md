@@ -2,7 +2,7 @@
 name: Meghan Lau
 position: Undergraduate Student
 layout: authors
-imagename: ../images/BlankFemale.jpg
+imagename: ../images/MeghanLau.jpg
 shortDescr: </br>Meghan is conducting her honor's thesis project in the lab and will focus on understanding the age related effects on <b>spatial working memory</b>.
 ---
 ## Background
