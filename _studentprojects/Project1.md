@@ -1,5 +1,5 @@
 ---
-name: Implement mediation analyses in python
+name: Implement mediation analyses in python for brain imaging data
 layout: project
 shortDescr: Develop the software for implementing mediation and moderation statistical analyses with brain imaging data using python.
 ---
