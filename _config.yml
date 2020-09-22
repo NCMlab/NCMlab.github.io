@@ -10,7 +10,7 @@ author: Jason Steffener
 email: jsteffen@uottawa.ca
 description: > # this means to ignore newlines until "show_exerpts:"
   Using neuroimaging, cognitive neuroscience, mathematics, 
-  statistical modeling and distrubuted computations to understand the aging brain.
+  statistical modeling and distributed computations to understand the aging brain.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
