@@ -1,6 +1,8 @@
-# Mediation and Moderation
-Map of Content #MOC
-Created: 01-07-2022 10:07
+---
+name: Mediation and Moderation
+layout: project
+shortDescr: Notes about building teh mediation/moderation package in python.
+---
 
 1. [[Cognitive Reserve]] can only be identified through some factor moderating the effect of age or pathology on cognition.
 2. The effects of age on cognition are mediated through [[Age related diseases]].
