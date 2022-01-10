@@ -1,13 +1,13 @@
 ---
 name: Mediation and Moderation
 layout: project
-shortDescr: Notes about building teh mediation/moderation package in python.
+shortDescr: Notes about building the mediation/moderation package in python.
 ---
 
 1. [[Cognitive Reserve]] can only be identified through some factor moderating the effect of age or pathology on cognition.
 2. The effects of age on cognition are mediated through [[Age related diseases]].
 3. Mediation models range from the simple [[Three Variable Mediation Model]] to more sophisticated parallel and serial mediation models.
-4. [[Parallel mediation]]
+4. [Parallel mediation](Parallel mediation.md)
 5. [[Serial Mediation]]
 6. [[Simple Moderation]]
 7. [[Flexible modeling of Mediation]]
