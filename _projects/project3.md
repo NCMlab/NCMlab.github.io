@@ -1,4 +1,3 @@
-
 ---
 name: Development and Validation of a Software Platform for Cognitive and Behavioral Assessments.
 layout: project
