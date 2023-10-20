@@ -1,5 +1,5 @@
 ---
-name: Implement mediation analyses specification in python
+name: Implement mediation analyses specification in python (On Hold)
 layout: project
 shortDescr: Develop the software for specifying mediation and moderation statistical analyses using python.
 ---
