@@ -6,5 +6,5 @@ shortDescr: Short description.
 <a href="127.0.0.1:9000/publix/CYx1xztG8tj?Battery=1001">Participate in English</a>
 <a href="127.0.0.1:9000/publix/CYx1xztG8tj?Battery=1001">Participate in French</a>
 
-
+recruiting: text
 ---
