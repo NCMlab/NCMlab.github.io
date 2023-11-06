@@ -1,5 +1,5 @@
 ---
-name: Implement mediation analyses in python on the GPU
+name: Implement mediation analyses in python on the GPU (on hold)
 layout: project
 shortDescr: Develop the software for running mediation and moderation statistical analyses using python on the GPU.
 ---
