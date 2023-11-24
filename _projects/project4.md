@@ -9,21 +9,25 @@ We are recruiting 160 participants for an online study that observes how younger
 <table> 
 	<tr>
 		<td>
-			<em>Study Procedure</em>
-			One sixty-minute <em>online</em> session including:
+			<p><b>Study Procedure</b></p>
+			One sixty-minute <b>online</b> session including:
 			<ul>
-				<li>Informed conesent
-				<li>Performance of memory and cognitive tasks
-				<li>Complete questionnaires
+				<li>Informed conesent</li>
+				<li>Performance of memory and cognitive tasks</li>
+				<li>Complete questionnaires</li>
 			</ul>
 		</td>
 		<td>
-			<em>Eligibility Criteria</em>
+			<p><b>Eligibility Criteria</b></p>
 			<ul>
 				<li>Age 18-30 OR 60+ years</li>
 				<li>Normal or correct-to-normal hearing and vision</li>
 				<li>No neurological disorders</li>
 				<li>Computer/laptop with microphone and speakers</li>
+			</ul>
+			<p><b>Compensation</b></p>
+			<ul>
+				<li>Entry into a raffle to win one of two $50 gift cards</li>
 			</ul>
 		</td>
 	</tr>
