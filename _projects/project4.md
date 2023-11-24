@@ -33,7 +33,8 @@ recruiting: YES/OUI!!!
 	</tr>
 </table>
 <p>
-	<a href="https://jatos.ncmlab.ca/publix/run?code=TL1DU7CIL5r?Battery=11"><img src="EN.png" alt="English"><h2>Participate in English</h2></a>
+	<a href="https://jatos.ncmlab.ca/publix/TL1DU7CIL5r?Battery=11"><img src="EN.png" alt="English"><h2>Participate in English</h2></a>
+
 </p>
 
 <hr>
