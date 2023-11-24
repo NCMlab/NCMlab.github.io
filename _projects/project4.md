@@ -2,7 +2,7 @@
 name: Online Asessments of Cognitive Function (Ethics approved study H-10-23-9755)
 layout: project
 shortDescr: Volunteers Needed for an Online Study of Aging and Memory/Volontaires recherchés pour une étude en ligne sur le vieillissement et la mémoire
-recruiting: text
+recruiting: YES/OUI!!!
 ---
 <h2>We are recruiting 160 participants for an online study that observes how younger and older adults perform various memory tasks. </h2>
 
@@ -33,7 +33,7 @@ recruiting: text
 	</tr>
 </table>
 <p>
-	<a href="https://jatos.ncmlab.ca/publix/run?code=TL1DU7CIL5r"><img src="EN.png" alt="English"><h2>Participate in English</h2></a>
+	<a href="https://jatos.ncmlab.ca/publix/run?code=TL1DU7CIL5r?Battery=11"><img src="EN.png" alt="English"><h2>Participate in English</h2></a>
 </p>
 
 <hr>
