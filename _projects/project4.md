@@ -6,8 +6,8 @@ recruiting: text
 ---
 <h2>We are recruiting 160 participants for an online study that observes how younger and older adults perform various memory tasks. </h2>
 
-<table> 
-	<tr>
+<table border="0"> 
+	<tr style="vertical-align:top">
 		<td>
 			<p><b>Study Procedure</b></p>
 			One sixty-minute <b>online</b> session including:
