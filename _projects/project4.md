@@ -1,7 +1,7 @@
 ---
 name: Online Asessments of Cognitive Function (Ethics approved study H-10-23-9755)
 layout: project
-shortDescr: Volunteers Needed for an Online Study of Aging and Memory
+shortDescr: Volunteers Needed for an Online Study of Aging and Memory/Volontaires recherchés pour une étude en ligne sur le vieillissement et la mémoire
 recruiting: text
 ---
 <h2>We are recruiting 160 participants for an online study that observes how younger and older adults perform various memory tasks. </h2>
@@ -36,7 +36,35 @@ recruiting: text
 	<a href="https://jatos.ncmlab.ca/publix/run?code=TL1DU7CIL5r"><img src="EN.png" alt="English"><h2>Participate in English</h2></a>
 </p>
 
-Le but de cette étude est de tester et de valider à distance les tests de mémoire et fonction cognitive. Toutes les evaluations seront administrées à l’aide d’un navigateur internet et marquées automatiquement. Les résultats de ces tests seront revus et comparés à ceux d’autres études ayant pris place auparavant en personne. Le but est de démontrer la faisabilite avec succes d’un test de mémoire et fonction cognitive à distance. Ceci représente une étape importante démontrant les possibilités et capacités de la télésanté. Les données collectées seront aussi utilisées dans le contexte des thèses des étudiants.</p><p><img src="FR.png" alt="French"><h2>Participate in French</h2></p>(Link is not active yet)
+<hr>
+<h2>Nous recrutons 120 participants pour une étude en ligne qui observe comment les adultes effectuent diverses tâches de mémoire. </h2>
 
-
-
+<table border="0"> 
+	<tr style="vertical-align:top">
+		<td>
+			<p><b>Procédures pour cette étude</b></p>
+			Une session de 60 minutes y comprise :
+			<ul>
+				<li>Consentement éclairé.</li>
+				<li>Effectuer les tâches de mémoire et les tâches cognitives.</li>
+				<li>Remplir les questionnaires.</li>
+			</ul>
+		</td>
+		<td>
+			<p><b>Critères d'éligibilité</b></p>
+			<ul>
+				<li>A&#770;gés de 18 à 30 ans ou de 60 ans et plus.</li>
+				<li>Audition et vision normales ou correctes à normales</li>
+				<li>Pas de troubles neurologiques</li>
+				<li>Ordinateur/ordinateur portable avec microphone et haut-parleurs</li>
+			</ul>
+			<p><b>Compensation</b></p>
+			<ul>
+				<li>Participation à une tombola pour gagner l’une des deux cartes-cadeaux de 50 $.</li>
+			</ul>
+		</td>
+	</tr>
+</table>
+<p>
+	<img src="FR.png" alt="French"><h2>Participer en Français</h2>(lien non actif)
+</p>
