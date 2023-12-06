@@ -12,7 +12,7 @@ recruiting: YES/OUI!!!
 			<p><b>Study Procedure</b></p>
 			One sixty-minute <b>online</b> session including:
 			<ul>
-				<li>Informed conesent</li>
+				<li>Informed consent</li>
 				<li>Performance of memory and cognitive tasks</li>
 				<li>Complete questionnaires</li>
 			</ul>
