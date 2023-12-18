@@ -33,7 +33,7 @@ recruiting: YES/OUI!!!
 	</tr>
 </table>
 <p>
-	<a href="https://jatos.ncmlab.ca/publix/TL1DU7CIL5r?Battery=11"><img src="EN.png" alt="English"><h2>Participate in English</h2></a>
+	<a href="https://jatos.ncmlab.ca/publix/TL1DU7CIL5r?Battery=11"><img src="EN.png" alt="English"><h2>Participate in English</h2></a> (This link will take you directly to the task which will take between 30 and 45 minutes to complete.)
 
 </p>
 
