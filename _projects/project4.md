@@ -10,7 +10,7 @@ recruiting: YES/OUI!!!
 	<tr style="vertical-align:top">
 		<td>
 			<p><b>Study Procedure</b></p>
-			One sixty-minute <b>online</b> session including:
+			One <b>online</b> session including:
 			<ul>
 				<li>Informed consent</li>
 				<li>Performance of memory and cognitive tasks</li>
