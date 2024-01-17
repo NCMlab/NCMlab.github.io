@@ -4,7 +4,7 @@ layout: project
 shortDescr: Volunteers Needed for an Online Study of Aging and Memory/Volontaires recherchés pour une étude en ligne sur le vieillissement et la mémoire
 recruiting: YES/OUI!!!
 ---
-<h2>We are recruiting 160 participants for an online study that observes how younger and older adults perform various memory tasks. </h2>
+<h2>We are recruiting 120 participants for an online study that observes how younger and older adults perform various memory tasks. </h2>
 
 <table border="0"> 
 	<tr style="vertical-align:top">
