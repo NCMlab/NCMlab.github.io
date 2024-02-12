@@ -3,7 +3,7 @@ name: Development and Validation of a Software Platform for Cognitive and Behavi
 layout: project
 shortDescr: We have developed a software platform for remote or in-person cognitive and behavioral assessments that incorporates speech recognition, AI generated speech and touch screen technologies. The result is a sophisticated platform for development and deployment of assessments in healthy and disease populations along with a backend interface for interpretation and assessments of participant and patient results. 
 ---
-This is a software platform for in-person and remote behavioral and cognitive evaluation. This software platform is technology-driven, including [AI-generated speech] in multiple languages and accents. It uses [[Speech Recognition]], allowing for free recall and spoken responses. Touch screen technology is used for [[drawing tasks]]. [Questionnaires]({% Questionnaires.md %})
+This is a software platform for in-person and remote behavioral and cognitive evaluation. This software platform is technology-driven, including [AI-generated speech] in multiple languages and accents. It uses [[Speech Recognition]], allowing for free recall and spoken responses. Touch screen technology is used for [[drawing tasks]]. [Questionnaires]({% link Questionnaires.md %})
 
 
  and cognitive tasks are delivered within the same platform, facilitating data integration. 
