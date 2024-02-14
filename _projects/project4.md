@@ -68,5 +68,5 @@ recruiting: YES/OUI!!!
 	</tr>
 </table>
 <p>
-	<img src="FR.png" alt="French"><h2>Participer en Français</h2>(lien non actif)
+	<a href="https://jatos.ncmlab.ca/publix/TL1DU7CIL5r?Battery=11"><img src="FR.png" alt="French"><h2>Participer en français</h2></a> (Ce lien vous mènera directement à la tâche qui prendra entre 30 et 45 minutes.)
 </p>
