@@ -1,5 +1,5 @@
 ---
 name: higher level decision making
-layout: page
+layout: 3cPage
 ---
 # Higher Level Decision Making

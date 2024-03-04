@@ -1,6 +1,6 @@
 ---
 name: Serial Subtraction
-layout: page
+layout: 3cPage
 ---
 # Serial Subtraction
 - This is a quick test of concentration and memory.

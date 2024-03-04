@@ -1,6 +1,6 @@
 ---
 name: Trail making
-layout: page
+layout: 3cPage
 ---
 # Trail Making
 This is a test of visual attention, speed of processing, task switching, working memory, and executive functioning.

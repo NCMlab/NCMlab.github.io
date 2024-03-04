@@ -1,4 +1,4 @@
 ---
 name: browser-based assessments
-layout: page
+layout: 3cPage
 ---

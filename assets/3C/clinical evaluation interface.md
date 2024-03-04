@@ -1,6 +1,6 @@
 ---
 name: clinical evaluation interface
-layout: page
+layout: 3cPage
 ---
 # Clinical Evaluation Interface
 

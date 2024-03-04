@@ -1,5 +1,5 @@
 ---
 name: Adaptive difficulty
-layout: page
+layout: 3cPage
 ---
 # Adaptive Difficulty

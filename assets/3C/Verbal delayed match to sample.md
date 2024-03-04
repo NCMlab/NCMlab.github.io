@@ -1,6 +1,6 @@
 ---
 name: Verbal delayed match to sample
-layout: page
+layout: 3cPage
 ---
 ---
 name: Verbal delayed match to sample

@@ -1,6 +1,6 @@
 ---
 name: Word Recall
-layout: page
+layout: 3cPage
 ---
 # Word Recall
  This is a test of immediate and delayed recall of information testing episodic verbal learning and memory. 

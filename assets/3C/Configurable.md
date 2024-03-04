@@ -1,6 +1,6 @@
 ---
 name: Configurable
-layout: page
+layout: 3cPage
 ---
 # Configurable
 The focus of this software platform is reusability. Therefore, a single version of the software to run each tasks exists. Any variations to the tasks are made via configuration files. This approach facilitates code updates and ensures that any updates are applied to all versions of the tasks.

@@ -1,6 +1,6 @@
 ---
 name: Verbal Fluency
-layout: page
+layout: 3cPage
 ---
 # Verbal Fluency
 ---

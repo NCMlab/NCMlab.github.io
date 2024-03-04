@@ -1,6 +1,6 @@
 ---
 name: Matrix Reasoning
-layout: page
+layout: 3cPage
 ---
 # Matrix Reasoning
 

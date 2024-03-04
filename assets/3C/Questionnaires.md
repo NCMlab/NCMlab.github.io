@@ -1,6 +1,6 @@
 ---
 name: Questionnaires
-layout: page
+layout: 3cPage
 ---
 ---
 name: Questionnaires

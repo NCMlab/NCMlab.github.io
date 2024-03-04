@@ -1,6 +1,6 @@
 ---
 name: Line Bisection
-layout: page
+layout: 3cPage
 ---
 # Line Bisection
 Participants see a series of lines on the screen and need to draw a mark at the center of each line.

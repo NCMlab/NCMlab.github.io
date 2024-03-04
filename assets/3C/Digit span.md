@@ -1,6 +1,6 @@
 ---
 name: Digit span
-layout: page
+layout: 3cPage
 ---
 # Digit Span
 - This is a test of short-term and working memory.

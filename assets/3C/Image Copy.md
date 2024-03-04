@@ -1,6 +1,6 @@
 ---
 name: Image Copy
-layout: page
+layout: 3cPage
 ---
 # Image Copy
 - This is a test of visual-spatial construction and includes spatial coding, attention, motor execution, and planning.

@@ -1,6 +1,6 @@
 ---
 name: Example Cognitive Task Description
-layout: page
+layout: 3cPage
 ---
 ## Task Name
 ## Purpose of the task

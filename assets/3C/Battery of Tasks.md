@@ -1,6 +1,6 @@
 ---
 name: Battery of Tasks
-layout: page
+layout: 3cPage
 ---
 # Battery of Tasks
 Delivering a predefined battery of tasks requires setting up a config file for the battery. This battery is assigned a numeric ID which is used in the weblink URL. Therefore, the software reads the provided battery ID and loads the appropriate lists of tasks and questionnaires. 

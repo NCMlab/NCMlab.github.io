@@ -1,6 +1,6 @@
 ---
 name: Single Letter Cancellation Task
-layout: page
+layout: 3cPage
 ---
 ---
 name: Single Letter Cancellation Task

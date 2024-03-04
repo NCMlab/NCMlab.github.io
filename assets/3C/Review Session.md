@@ -1,6 +1,6 @@
 ---
 name: Review Session
-layout: page
+layout: 3cPage
 ---
 ---
 name: Review Session

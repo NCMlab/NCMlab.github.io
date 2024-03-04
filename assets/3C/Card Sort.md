@@ -1,6 +1,6 @@
 ---
 name: Card Sort
-layout: page
+layout: 3cPage
 ---
 ---
 name: Card Sort

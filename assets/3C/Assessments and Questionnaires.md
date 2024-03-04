@@ -1,6 +1,6 @@
 ---
 name: Assessments and Questionnaires
-layout: page
+layout: 3cPage
 ---
 # Assessments and Questionnaires
 - Screening form which decides whether a participant is eligible

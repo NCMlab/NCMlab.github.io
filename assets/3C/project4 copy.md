@@ -1,6 +1,6 @@
 ---
 name: project4 copy
-layout: page
+layout: 3cPage
 ---
 ---
 name: project4 copy

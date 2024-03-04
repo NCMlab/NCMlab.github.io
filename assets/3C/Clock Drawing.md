@@ -1,6 +1,6 @@
 ---
 name: Clock Drawing
-layout: page
+layout: 3cPage
 ---
 # Clock Drawing
 This is a test of visual-spatial construction.

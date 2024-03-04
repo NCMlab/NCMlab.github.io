@@ -1,6 +1,6 @@
 ---
 name: Drawing Tasks
-layout: page
+layout: 3cPage
 ---
 # Drawing Tasks
 The use of touch screen technology allows testing of visual motor and executive functioning. Using either a finger or a stylus participants can copy images, draw figures, or draw lines connecting images on a screen. The use of this technology opens up the doors to a wide variety of cognitive assessments further enhancing the validity of remote assessments.
