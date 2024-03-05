@@ -68,5 +68,6 @@ recruiting: YES/OUI!!!
 	</tr>
 </table>
 <p>
+
 	<img src="FR.png" alt="French"><h2>Participer en Français</h2>(lien non actif)
 </p>
