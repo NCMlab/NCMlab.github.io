@@ -47,23 +47,25 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 
-#collections:
-#  jason:
-#    output: true
-#  grad:
-#    output: true
-#  undergrad:
-#    output: true
-#  alumni:
-#    output: true
+collections:
+  jason:
+    output: true
+  grad:
+    output: true
+  undergrad:
+    output: true
+  alumni:
+    output: true
   projects:
     output: true
   studentprojects:
     output: true
-#  pastprojects:
-#    output: true
-#  software:
-#    output: true
+  pastprojects:
+    output: true
+  software:
+    output: true
+  3C:
+    output: false
 
 assets:
   css
