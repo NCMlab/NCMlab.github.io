@@ -1,4 +1,6 @@
 ---
+title: A Title
+date: 2024-03-06
 name: The 3C Platform
 layout: 3cPage
 shortDescr: An open source software platform for the development, administration, and interpretation of in-person and remote behavioral and cognitive assessments.
