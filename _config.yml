@@ -56,10 +56,10 @@ minima:
 #    output: true
 #  alumni:
 #    output: true
-#  projects:
-#    output: true
-#  studentprojects:
-#    output: true
+  projects:
+    output: true
+  studentprojects:
+    output: true
 #  pastprojects:
 #    output: true
 #  software:
