@@ -1,5 +1,5 @@
 ---
-name: The 3C Platform
+name: The 3C PlatformX
 layout: 3cPage
 shortDescr: An open source software platform for the development, administration, and interpretation of in-person and remote behavioral and cognitive assessments.
 permalink: /3C/
@@ -8,4 +8,4 @@ This is an open source software platform for the development, administration, an
 
 
 
-
+[LINK]({ % link JASON.md %})
