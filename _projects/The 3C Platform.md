@@ -3,8 +3,9 @@ name: The 3C Platform
 layout: 3cPage
 shortDescr: An open source software platform for the development, administration, and interpretation of in-person and remote behavioral and cognitive assessments.
 ---
-# The 3C Platform
-This is an open source software platform for the development, administration, and interpretation of in-person and remote behavioural and cognitive assessments. The goal of this platform is two-fold. First, is to democratise access and use of up-to-date cognitive and behavioural evaluations that are supported by demographically appropriate normative data. Second, is to leverage the power of computing to enhance and expand measures collected from cognitive assessments beyond what is traditionally available from paper and pencil administration.
+This is an open source software platform for the development, administration, and interpretation of in-person and remote behavioural and cognitive assessments. The goal of this platform is two-fold. First, is to democratise access and use of up-to-date cognitive and behavioural evaluations that are supported by demographically appropriate normative data. Second, is to leverage the power of computing to enhance and expand measures collected from cognitive assessments beyond what is traditionally available from paper and pencil administration. 
+
+This open-source project provides a platform for development and validation of culturally appropriate assessment batteries. Deployment of assessments may be done in-person or remotely. 
 
 This sophisticated software platform incorporates AI-generated speech, speech recognition, use of touch screen, and survey technologies. [AI-generated speech]({% link 3C/AI-generated speech.md %}) facilitates presentation of verbal stimuli in multiple languages and accents. [Speech Recognition]({% link 3C/Speech Recognition.md %}) in multiple languages allows for assessments that require spoken responses. Touch screen technology facilitates the use of [drawing tasks]({% link 3C/Drawing Tasks.md %}). Survey delivery incorporates [questionnaires]({% link 3C/Questionnaires.md %}) and cognitive tasks into the same platform thereby facilitating data integration. 
 
@@ -21,3 +22,7 @@ One vision of this project is to serve as a platform for clinicians to identify 
 Another vision of this platform is to serve as a collaborative platform to revolutionize cognitive assessments by integrating cutting-edge technology with the foundations of cognitive neuropsychology. This vision includes leveraging the open source nature of the work to expand the currently available assessments and questionnaires. Current ideas and immediate future directions are the inclusion of technologies such as pupillometry, eye tracking, mouse tracking, image recognition, and matching an individual's needs to available services. 
 
 Currently, the software platform includes the following [Assessments and Questionnaires]({% link 3C/Assessments and Questionnaires.md %}).
+
+Links to the software in Demonstration mode are available here:
+
+[English Demo](https://jatos.ncmlab.ca/publix/eaAvjeIkuc2?Battery=202)
