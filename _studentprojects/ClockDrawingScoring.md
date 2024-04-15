@@ -4,7 +4,7 @@ layout: project
 shortDescr: Develop/implement a tool for the automatic scoring of the hand-drawn cognitive tests
 ---
 
-There are multiple drawing tasks used as key assessments in clinical diagnoses. These tests include drawing an image based on a verbal/written description, copying an image, or drawing an image from memory. For all of these tests scoring needs to be performed by a trained professional. Automatic scoring can greatly improve and expand the use of this important class of assessments. The lab's [3C platform](https://ncmlab.github.io/projects/The%203C%20Platform.html) would be greatly enhanced through incorporation of this technology. 
+Multiple drawing tasks are used as key assessments in clinical diagnoses. These tests include drawing an image based on a verbal/written description, copying an image, or drawing an image from memory. For all of these tests, scoring needs to be performed by a trained professional. Automatic scoring can greatly improve and expand the use of this important class of assessments. The lab's [3C platform](https://ncmlab.github.io/projects/The%203C%20Platform.html) would be greatly enhanced by this technology. 
 
 ## This project involves:
 - Understanding/learning about the aims/goals of various cognitive assessments

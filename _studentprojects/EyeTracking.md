@@ -1,10 +1,10 @@
 ---
 name: Eye-Tracking
 layout: project
-shortDescr: Incoroprate eye-tracking capabilities into the cognitive assessment platform
+shortDescr: Incorporate eye-tracking capabilities into the cognitive assessment platform
 ---
 
-Eye-movement behavior during performance of cognitive tasks provides insight into memory, decision-making, and learning. Therefore, coupling eye-movement information into cognitive tasks provides a greater window into cognitive neuroscience than task performance alone. The lab's cognitive assessment platform would be greatly enhanced by incorporating this technology into it. Our platform uses [www.jsPsych.org](www.jsPsych.org) which already includes a package for eye-tracking:
+Eye movement behavior during the performance of cognitive tasks provides insight into memory, decision-making, and learning. Therefore, coupling eye-movement information into cognitive tasks provides a greater window into cognitive neuroscience than task performance alone. Incorporating this technology would greatly enhance the lab's cognitive assessment platform. Our platform uses [www.jsPsych.org](www.jsPsych.org) which already includes a package for eye-tracking:
 
 [https://www.jspsych.org/7.3/overview/eye-tracking/](https://www.jspsych.org/7.3/overview/eye-tracking/)
 
