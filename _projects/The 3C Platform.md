@@ -23,4 +23,4 @@ Currently, the software platform includes the following [Assessments and Questio
 
 Links to the software in Demonstration mode are available here:
 
-[English Demo](https://jatos.ncmlab.ca/publix/eaAvjeIkuc2?Battery=202)
+[English Demo](https://jatos.ncmlab.ca/publix/eaAvjeIkuc2?Battery=2002)
