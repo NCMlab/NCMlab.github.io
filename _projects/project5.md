@@ -61,4 +61,4 @@ recruiting: YES/OUI!!!
 </table>
 <h3>Participate in English or French</h3>
 Use this link to start:
-<a href="https://jatos-dev.ncmlab.ca/publix/kxOAPMuLU3i?Battery=16&UsageType=Battery">
+<a href="https://jatos-dev.ncmlab.ca/publix/kxOAPMuLU3i?Battery=16&UsageType=Battery">Participate</a>
