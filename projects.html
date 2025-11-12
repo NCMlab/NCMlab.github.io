@@ -29,9 +29,22 @@ This platform provides many opportunities for psychology, health science, engine
 <p>
   <b>The following list was updated October 2025.</b>
 </p>
+<h3>High Priority Projects</h3>
 </p>
 <ul>
   {% for project in site.studentprojects %}
+    <li>
+      <h4><a href="{{ project.url }}">{{ project.name }}</a></h4>
+      <p>
+  {{ project.shortDescr }}
+</p>
+    </li>
+  {% endfor %}
+</ul>
+<h3>Low Priority Projects</h3>
+</p>
+<ul>
+  {% for project in site.studentLowPriorityProjects %}
     <li>
       <h4><a href="{{ project.url }}">{{ project.name }}</a></h4>
       <p>

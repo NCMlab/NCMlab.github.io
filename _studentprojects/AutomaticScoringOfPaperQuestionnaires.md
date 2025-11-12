@@ -10,5 +10,5 @@ This project is to develop printable versions of paper-based assessments which c
 There is an existing open-source package that will facilitate this project:
 https://sdaps.org/
 
-The optimal complete project would allow a research associate to take a picture of a completed paper questionnaire using their cellphone, send it to a site for processing which then POSTS the results to teh database.
+The optimal complete project would allow a research associate to take a picture of a completed paper questionnaire using their cellphone, send it to a site for processing which then POSTS the results to the database.
 
