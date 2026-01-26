@@ -4,13 +4,13 @@ layout: project
 shortDescr: Volunteers Needed for an Online Study of Aging and Memory/Volontaires recherchés pour une étude en ligne sur le vieillissement et la mémoire
 recruiting: YES/OUI!!!
 ---
-<h2>We are recruiting 100 participants for an online study the effects of aging on memory. </h2>
+<h2>We are recruiting 100 participants to study memory function with computerized  tasks. </h2>
 
 <table border="0"> 
 	<tr style="vertical-align:top">
 		<td>
 			<p><b>Study Procedure</b></p>
-			One <b>online</b> session including:
+			One twenty to thirty minute <b>online</b> session including:
 			<ul>
 				<li>Informed consent</li>
 				<li>Performance of memory and cognitive tasks</li>
@@ -20,10 +20,10 @@ recruiting: YES/OUI!!!
 		<td>
 			<p><b>Eligibility Criteria</b></p>
 			<ul>
-				<li>Age 18-30 OR 60+ years</li>
+				<li>Over 18 years of age</li>
 				<li>Normal or correct-to-normal hearing and vision</li>
 				<li>No neurological disorders</li>
-				<li>Computer/laptop with microphone and speakers</li>
+				<li>Computer/laptop/tablet with microphone and speakers</li>
 				<li>Need to use Chrome webbrowser</li>
 			</ul>
 			<p><b>Compensation</b></p>
@@ -34,18 +34,18 @@ recruiting: YES/OUI!!!
 	</tr>
 </table>
 <p>
-	<a href="https://jatos.ncmlab.ca/publix/TL1DU7CIL5r?Battery=16">This link will take you directly to the task which will take between 20 and 30 minutes to complete.</a>
+	<a href="https://jatos.ncmlab.ca/publix/TL1DU7CIL5r?Battery=16">This link will take you directly to the task.</a>
 
 </p>
 
 <hr>
-<h2>Nous recrutons 100 participants pour une étude en ligne qui observe comment les adultes effectuent diverses tâches de mémoire. </h2>
+<h2>Nous recrutons 100 participants observer comment les adultes effectuent diverses tâches de mémoire. </h2>
 
 <table border="0"> 
 	<tr style="vertical-align:top">
 		<td>
 			<p><b>Procédures pour cette étude</b></p>
-			Une session de 60 minutes y comprise :
+			Une session de 20 à 30 minutes y comprise :
 			<ul>
 				<li>Consentement éclairé.</li>
 				<li>Effectuer les tâches de mémoire et les tâches cognitives.</li>
@@ -55,10 +55,10 @@ recruiting: YES/OUI!!!
 		<td>
 			<p><b>Critères d'éligibilité</b></p>
 			<ul>
-				<li>A&#770;gés de 18 à 30 ans ou de 60 ans et plus.</li>
+				<li>Âgé d'au moins 18 ans</li>
 				<li>Audition et vision normales ou correctes à normales</li>
 				<li>Pas de troubles neurologiques</li>
-				<li>Ordinateur/ordinateur portable avec microphone et haut-parleurs</li>
+				<li>Ordinateur/ordinateur portable/tablette avec microphone et haut-parleurs</li>
 			</ul>
 			<p><b>Compensation</b></p>
 			<ul>
