@@ -68,5 +68,5 @@ recruiting: YES/OUI!!!
 	</tr>
 </table>
 <p>
-  <a href="https://jatos.ncmlab.ca/publix/TL1DU7CIL5r?Battery=16">Ce lien vous mènera directement à la tâche qui prendra entre 20 et 30 minutes.</a>  
+  <a href="https://jatos.ncmlab.ca/publix/TL1DU7CIL5r?Battery=16">Ce lien vous mènera directement à la tâche.</a>  
 </p>
