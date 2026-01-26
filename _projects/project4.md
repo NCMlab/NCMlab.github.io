@@ -34,7 +34,7 @@ recruiting: YES/OUI!!!
 	</tr>
 </table>
 <p>
-	<a href="https://jatos.ncmlab.ca/publix/7xmQ4EQpbI5?Battery=16">This link will take you directly to the task.</a>
+	<a href="https://jatos.ncmlab.ca/publix/7xmQ4EQpbI5?Battery=16&UsageType=Battery">This link will take you directly to the task.</a>
 
 </p>
 
@@ -68,5 +68,5 @@ recruiting: YES/OUI!!!
 	</tr>
 </table>
 <p>
-  <a href="https://jatos.ncmlab.ca/publix/7xmQ4EQpbI5?Battery=16">Ce lien vous mènera directement à la tâche.</a>  
+  <a href="https://jatos.ncmlab.ca/publix/7xmQ4EQpbI5?Battery=16&UsageType=Battery">Ce lien vous mènera directement à la tâche.</a>  
 </p>
