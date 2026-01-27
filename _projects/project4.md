@@ -24,7 +24,6 @@ recruiting: YES/OUI!!!
 				<li>Normal or correct-to-normal hearing and vision</li>
 				<li>No neurological disorders</li>
 				<li>Computer/laptop/tablet with microphone and speakers</li>
-				<li>Need to use Chrome webbrowser</li>
 			</ul>
 			<p><b>Compensation</b></p>
 			<ul>
